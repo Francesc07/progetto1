@@ -1,4 +1,4 @@
-//cambiamento 2
+//cambiamento dal sito
 
 public class Bidone extends Contenitore {
 

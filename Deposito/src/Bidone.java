@@ -1,5 +1,11 @@
 //cambiamento dal sito
 
+
+/**
+*
+* visto dal prof Gervasi
+*/
+
 public class Bidone extends Contenitore {
 
 	private float raggioBase;
